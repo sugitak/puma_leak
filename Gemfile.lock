@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mysql2 (0.3.11)
+    puma (2.0.1)
+      rack (>= 1.1, < 2.0)
+    rack (1.5.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mysql2
+  puma
